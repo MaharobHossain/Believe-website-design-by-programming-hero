@@ -80,3 +80,35 @@ nav{
     font-size: 16px;
     color: #444343;
 }
+
+
+/* My Plans style */
+
+
+.plan-main-tittel{
+    font-family: "Poppins", serif;
+    font-size: 40px;
+    font-weight: bold;
+    color: #151414;
+    text-align: center;
+}
+.plans-box{
+    display: flex;
+    max-width: 1140px;
+    height: 202px;
+    gap: 45px;
+    text-align: center;
+    justify-content: space-around;
+    margin: 50px 105px;
+}
+.plan-tittel{
+    font-family: "Poppins", serif;
+    font-size: 30px;
+    font-weight: bold;
+    color: #151414;
+}
+.plan-desc{
+    font-family: "Poppins", serif;
+    font-size: 25px;
+    color: #737272;
+}
