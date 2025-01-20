@@ -112,3 +112,45 @@ nav{
     font-size: 25px;
     color: #737272;
 }
+
+
+
+/* mindset section style */
+
+.mindset{
+    width: 1140px;
+    height: 300px;
+    background-image: url(images/watch.png);
+    background-repeat: no-repeat; 
+    margin: 50px 105px;
+}
+.mind{
+    width: 1140px;
+    height: 300px;
+    background-image: url(images/gradient1.png);
+    background-repeat: no-repeat;
+}
+.mindset-box{
+    width: 550px;
+    height: 182px;
+    margin-left: 90px;
+
+}
+.mindset-tittle{
+    font-family: "Poppins", serif;
+    font-size: 35px;
+    font-weight: bold;
+    color: #FFFFFF;
+    padding-top: 40px;
+}
+.mindset-buttons{
+    font-family: "Poppins", serif;
+    font-size: 20px;
+    font-weight: 500;
+    color: #005FAC;
+    padding: 18px 40px;
+    border: none;
+    border-radius: 5px;
+    background-color: #FFFFFF;
+    /* margin-left: 90px; */
+}
