@@ -47,4 +47,36 @@ nav{
 
 /* failour section style */
 
+.failour-section {
+    display: flex;
+    width: 1000px;
+    height: 700px;
+    gap: 90px;
+    align-items: center;
+    margin: 150px;
+}
+.fail-image{
+    width: 559px;
+    height: 723px;
 
+}
+
+.fail-section{
+    max-width: 416px;
+}
+.fail-titel{
+    font-family: "Poppins", serif;
+    font-size: 40px;
+    font-weight: bold;
+    color: #151414;
+}
+.fail-desc{
+    font-family: "Poppins", serif;
+    font-size: 16px;
+    color: #444343;
+}
+.fail-list{
+    font-family: "Poppins", serif;
+    font-size: 16px;
+    color: #444343;
+}
