@@ -21,16 +21,17 @@ nav{
     width: 505px;
     text-align: right;
     margin-left: 690px;
+    margin-top: 70px;
 }
 .banner-content .banner-titel{
     font-family: "Poppins", serif;
-    font-size: 65px;
+    font-size: 60px;
     font-weight: bold;
     color: #FFFFFF;
 }
 .banner-content .banner-desc{
     font-family: "Poppins", serif;
-    font-size: 16px;
+    font-size: 15px;
     color: #FFFFFF;
 }
 .banner-content .banner-button{
@@ -43,3 +44,7 @@ nav{
     border-radius: 5px;
     background-color: #FFFFFF;
 }
+
+/* failour section style */
+
+
