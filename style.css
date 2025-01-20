@@ -44,6 +44,11 @@ nav{
     border-radius: 5px;
     background-color: #FFFFFF;
 }
+.banner-button:hover{
+    color: black ;
+    background-color: rgb(26, 231, 221);
+    transform: translateY(-3px);
+}
 
 /* failour section style */
 
@@ -122,7 +127,7 @@ nav{
     height: 300px;
     background-image: url(images/watch.png);
     background-repeat: no-repeat; 
-    margin: 50px 105px;
+    margin: 160px 105px;
 }
 .mind{
     width: 1140px;
@@ -153,7 +158,11 @@ nav{
     border-radius: 5px;
     background-color: #FFFFFF;
 }
-
+.mindset-buttons:hover{
+    color: black ;
+    background-color: rgb(26, 231, 221);
+    transform: translateY(-3px);
+}
 
 /* footer section style */
 footer{
@@ -189,11 +198,14 @@ footer{
 .socail-icon img{
     padding: 6px;
 }
+.socail-icon img:hover{
+    transform: translateY(-5px);
+}
 .subscribe{
     display: block;
     width: 325px;
     height: 204px;
-    margin-top: 80px;
+    margin-top: 75px;
 }
 .sub-tittel{
     font-family: "Poppins", serif;
@@ -208,7 +220,7 @@ footer{
     background-color: #151414;
     border: 0.5px solid #F3F3F3;
     border-radius: 5px;
-    padding: 12px 45px;
+    padding: 12px 43px;
 }
 .sub-button{
     font-family: "Poppins", serif;
@@ -216,8 +228,15 @@ footer{
     font-weight: 500;
     color: #FFFFFF;
     padding: 12px 35px;
-    margin-top: 15px;
+    margin-top: 18px;
     border: none;
     border-radius: 5px;
     background-color: #005FAC;
+    cursor: pointer;
+    transition: red 0.3s ease, transform 0.2s ease;
+}
+.sub-button:hover{
+    color: black ;
+    background-color: rgb(26, 231, 221);
+    transform: translateY(-2px);
 }
