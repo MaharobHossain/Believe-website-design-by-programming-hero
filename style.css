@@ -157,18 +157,43 @@ nav{
 
 /* footer section style */
 footer{
-    display: flex;
     height: 500px;
     background-color: #151414;
+}
+.footer-all{
+    display: flex;
+    gap: 280px;
+    margin-left: 118px;
 }
 .future{
     width: 485px;
     height: 317px;
+    margin-top: 60px;
+}
+.future-titel{
+    font-family: "Poppins", serif;
+    font-size: 45px;
+    font-weight: bold;
+    color: #F8F8F8;
+}
+.future-desc{
+    font-family: "Poppins", serif;
+    font-size: 16px;
+    color: #FFFFFF;
+}
+.future-info{
+    font-family: "Poppins", serif;
+    font-size: 16px;
+    color: #FFFFFF;
+}
+.socail-icon img{
+    padding: 6px;
 }
 .subscribe{
     display: block;
     width: 325px;
     height: 204px;
+    margin-top: 80px;
 }
 .sub-tittel{
     font-family: "Poppins", serif;
