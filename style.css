@@ -152,5 +152,47 @@ nav{
     border: none;
     border-radius: 5px;
     background-color: #FFFFFF;
-    /* margin-left: 90px; */
+}
+
+
+/* footer section style */
+footer{
+    display: flex;
+    height: 500px;
+    background-color: #151414;
+}
+.future{
+    width: 485px;
+    height: 317px;
+}
+.subscribe{
+    display: block;
+    width: 325px;
+    height: 204px;
+}
+.sub-tittel{
+    font-family: "Poppins", serif;
+    font-size: 25px;
+    font-weight: 550;
+    color: #FFFFFF;
+}
+.sub-email{
+    font-family: "Poppins", serif;
+    font-size: 18px;
+    color: #F3F3F3;
+    background-color: #151414;
+    border: 0.5px solid #F3F3F3;
+    border-radius: 5px;
+    padding: 12px 45px;
+}
+.sub-button{
+    font-family: "Poppins", serif;
+    font-size: 20px;
+    font-weight: 500;
+    color: #FFFFFF;
+    padding: 12px 35px;
+    margin-top: 15px;
+    border: none;
+    border-radius: 5px;
+    background-color: #005FAC;
 }
