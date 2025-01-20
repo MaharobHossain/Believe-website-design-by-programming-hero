@@ -7,19 +7,20 @@ body{
 
 /* Navbar Style */
 
-.header{
+nav{
     background-image: url(images/banner/banner3.png);
     background-size: cover;
     background-repeat: no-repeat;
+    padding-top: 1px;
 }
 .banner{
-    max-width: 1600px;
-    height: 808px;
+    /* max-width: 1800px; */
+    height: 608px;
 }
 .banner-content{
-    width: 50%;
+    width: 505px;
     text-align: right;
-    margin: 100px 50px 50px 500px;
+    margin-left: 690px;
 }
 .banner-content .banner-titel{
     font-family: "Poppins", serif;
